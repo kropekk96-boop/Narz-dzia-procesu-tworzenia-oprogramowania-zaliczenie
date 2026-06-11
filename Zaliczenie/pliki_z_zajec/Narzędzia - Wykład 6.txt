@@ -1,0 +1,106 @@
+Narzędzia procesu tworzenia oprogramowania
+
+Testowanie wydajności
+10
+
+Opis testów wydajności
+Testy wydajności polegają na sprawdzeniu, jak system informatyczny zachowuje się pod obciążeniem — czyli gdy korzysta z niego wielu użytkowników lub wykonywana jest duża liczba operacji jednocześnie.
+Celem nie jest tylko znalezienie momentu awarii, ale przede wszystkim odpowiedź na pytania:
+jak szybko odpowiada aplikacja,
+ilu użytkowników może obsłużyć,
+gdzie są wąskie gardła,
+czy system zachowuje stabilność,
+jak wykorzystuje zasoby serwera (CPU, RAM, dysk, sieć).
+
+
+Narzędzia do testów wydajności
+Jmeter
+ Jedno z najbardziej popularnych narzędzi do testów wydajności. Duże możliwości, prosta obsługa i licencja open source
+
+https://jmeter.apache.org/
+
+Gatling
+Wydajny i szybki framework do testów wydajności
+
+https://gatling.io/
+
+LoadRunner
+Rozbudowane narzędzie do testów wydajności. Ogromne możliwości integracji i realizacji testów.
+
+https://www.microfocus.com/en-us/products/loadrunner-professional/overview
+
+Tutoriale: http://testywydajnosci.pl/tag/load-runner/
+
+Narzędzia do testów wydajności aplikacji internetowych
+GTmetrix
+https://gtmetrix.com/
+Pingdom Website Speed Test
+ https://tools.pingdom.com/
+Google PageSpeed Insights
+https://developers.google.com/speed/pagespeed/insights/?hl=pl
+
+Tworzenie dokumentacji
+11
+
+Rodzaje dokumentacji 
+Dokumentacja techniczna
+Dla programistów i administratorów.
+Dokumentacja użytkownika
+Instrukcje dla końcowych użytkowników.
+Dokumentacja projektowa
+Opis architektury i wymagań.
+Dokumentacja testowa
+Scenariusze testów i raporty.
+Dokumentacja API
+Endpointy, parametry, odpowiedzi.
+
+
+Cechy dobrej dokumentacji 
+aktualna,
+zrozumiała,
+kompletna,
+łatwa do wyszukiwania,
+zawiera przykłady,
+posiada diagramy i procedury,
+
+
+“Dobra dokumentacja		to brak dokumentacji"
+
+Jak napisać dobrą dokumentację techniczną aplikacji? Porady i konkretne przykłady:
+https://medium.com/blog-transparent-data/jak-napisa%C4%87-dobr%C4%85-dokumentacj%C4%99-techniczn%C4%85-aplikacji-porady-i-konkretne-przyk%C5%82ady-5708ae2ea4ef
+Pisz dokumentację tak jak kod:
+https://bulldogjob.pl/articles/779-pisz-dokumentacje-tak-jak-kod
+
+Tworzenie dokumentacji projektu/aplikacji: 
+https://www.youtube.com/watch?v=b4tgs6-Oq-o
+
+
+
+Narzędzia do tworzenia dokumentacji
+
+Narzędzia do tworzenia dokumentacji
+Read the Docs
+https://readthedocs.org/
+
+https://python101.readthedocs.io/pl/latest/
+
+GitHub
+https://github.com/
+
+https://www.flynerd.pl/2018/06/jak-napisac-dobre-readme-projektu-na-githubie.html
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+
+Sphinx
+https://www.sphinx-doc.org/
+
+https://qabrio.pl/sphinx-generacja-specyfikacji/
+
+
+Narzędzia do tworzenia dokumentacji
+MediaWiki / Word Online / Google Docs
+
+Przemysław Sienkiewicz
+przemeksienkiewicz@gmail.com
+Dziękujęza uwagę

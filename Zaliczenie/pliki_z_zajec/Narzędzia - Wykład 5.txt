@@ -1,0 +1,117 @@
+Narzędzie wspomagające testowanie oprogramowania
+Narzędzia procesu tworzenia oprogramowania
+
+Testowanie jest ważnym elementem podnoszenia jakości oprogramowania. Nie powinno być jednak jedynym stosowanym sposobem jego poprawy. Testowanie polega na wykrywaniu błędów w oprogramowaniu. Wykonuje się je w celu wykrycia a następnie usunięcia błędów w systemie oraz w celu oceny niezawodności oprogramowania.
+Budowa i Wytwarzanie Oprogramowania, dr inż. Włodzimierz DĄBROWSKIhttps://edux.pjwstk.edu.pl/mat/200/lec/start/index.html
+Testowanie
+
+Tester oprogramowania w sklepie :)
+https://www.youtube.com/watch?v=I0NGCKOeT1E
+
+Rodzaje testów 
+
+Podział według poziomu 
+Testy jednostkowe (Unit Tests)
+testowanie pojedynczych funkcji/metod,
+wykonywane przez programistów.
+Testy integracyjne
+sprawdzanie współpracy modułów (np. komunikacja API ↔ baza danych.
+Testy systemowe
+test całego systemu,
+zgodność z wymaganiami biznesowymi.
+Testy akceptacyjne
+wykonywane przez klienta/użytkownika,
+
+Podział według poziomu
+
+Podział według celu 
+Testy funkcjonalne
+Testy wydajności
+Testy bezpieczeństwa
+Testy użyteczności
+Testy kompatybilności
+
+Podział według sposobu realizacji 
+
+Testy ręczne
+określane również mianem „testów manualnych” są wykonywane osobiście przez testerów przeklikujących się przez kolejne elementy aplikacji. Tego typu testy są bardzo kosztowne, ponieważ wymagają one zatrudnienia testerów, skonfigurowania środowiska i przeprowadzenia odpowiednich testów, dodatkowo mogą być także podatne na błędy ludzkie.
+Testy automatyczne
+ są wykonywane przez maszynę, która realizuje założenia uprzednio przygotowanego skryptu testowego. Testy tego typu mogą realizować bardzo proste testy polegające na weryfikacji działania pojedynczej metody w danej klasie, jak i testy sprawdzające czy wykonanie sekwencji złożonych czynności w interfejsie użytkownika będzie każdorazowo prowadziło do uzyskania takich samych rezultatów.
+
+Przykład testu strony WWW
+https://www.youtube.com/watch?v=lBAAp-1lCmQ&t=1s
+
+Proces testowania 
+
+Etapy procesu testowego 
+Analiza wymagań
+Planowanie testów
+Projektowanie przypadków testowych
+Wykonanie testów
+Raportowanie błędów
+Retesty i regresja
+
+Dlaczego należy testować oprogramowanie?
+
+Dlaczego należy testować oprogramowanie?
+
+Poprawa jakości,
+Redukcja kosztów błędów,
+Bezpieczeństwo systemów,
+Zwiększenie satysfakcji użytkownika.
+
+Narzędzia / testowanie
+09
+
+Zarządzanie testami / raportowanie błędów
+Bugzilla
+Oprogramowanie umożliwiające szybkie tworzenie serwisu internetowego do raportowania błędów w dowolnym oprogramowaniu.
+
+https://www.bugzilla.org/
+Jira
+ Jira nie jest stricte testerskim narzędziem, ale nadaje się do zarządzania testami, zgłaszania błędów i śledzenie zmian.
+
+https://www.atlassian.com/pl/software/jira
+Microsoft Office
+Możemy wykorzystać do przechowywania przypadków testowych, czy do raportowania defektów. 
+
+Testy jednostkowe / automatyczne
+IDE
+Narzędzia testowe
+IntelliJ IDEA
+JUnit, TestNG
+PyCharm
+pytest, unittest
+Visual Studio
+MSTest, NUnit
+Eclipse
+JUnit
+Android Studio
+Espresso, JUnit
+Xcode
+XCTest
+
+Automatyzacja testów
+Selenium
+Selenium jest dla wielu synonimem automatyzacji. Jest to już uznany przez W3C Standard, który przyczynia się do popularyzacji automatyzacji testów funkcjonalnych.
+
+https://www.selenium.dev/projects/
+HP Unified Functional Testing
+ Znana wcześniej jako QTP aplikacja wspiera testy funkcjonalne i regresyjne na najbardziej popularnych systemach operacyjnych i przeglądarkach internetowych. Umożliwia również testowanie API i web serwisy.
+
+https://www.microfocus.com/en-us/products/uft-one/overview
+
+Postman
+Narzędzie do testowania Web API. Postman służy przede do wysyłania żądań i kontroli nagłówków HTTP.
+
+https://www.postman.com/
+
+
+https://testerzy.pl/baza-wiedzy
+https://sjsi.org/ist-qb/do-pobrania/https://sjsi.org/jak-zaczac-przygode-z-testowaniem-oprogramowania-poradnik-dla-poczatkujacych/
+
+Materiały dodatkowe 
+
+Przemysław Sienkiewicz
+przemeksienkiewicz@gmail.com
+Dziękujęza uwagę
