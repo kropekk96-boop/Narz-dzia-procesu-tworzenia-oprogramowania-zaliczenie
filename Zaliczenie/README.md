@@ -12,7 +12,7 @@ Repozytorium zaliczeniowe zawierające aplikację konsolową napisaną w języku
 ## Opis Repozytorium
 
 Struktura projektu prezentuje się następująco:
-* `aplikacja_treningowa.py` – główny kod źródłowy autorskiej aplikacji. Skrypt podzielony jest na funkcje i wykorzystuje mechanizmy obsługi wyjątków.
+* `kalkulator_treningowy.py` – główny kod źródłowy autorskiej aplikacji. Skrypt podzielony jest na funkcje i wykorzystuje mechanizmy obsługi wyjątków.
 * `/pliki_z_zajec/` – katalog zawierający notatki tekstowe z zajęć teoretycznych:
   * *Narzędzia - Wykład 5.txt* (Tematyka testowania oprogramowania, klasyfikacja testów).
   * *Narzędzia - Wykład 6.txt* (Narzędzia developerskie, Git, GitHub).
@@ -43,4 +43,4 @@ Struktura projektu prezentuje się następująco:
 3. Wywołaj plik poleceniem:
 
 ```bash
-python aplikacja_treningowa.py
+python kalkulator_treningowy.py
